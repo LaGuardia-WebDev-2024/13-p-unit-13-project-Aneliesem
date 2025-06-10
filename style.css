@@ -20,3 +20,19 @@ hr {
   height: 5px;
   background-color: black;
 }
+
+body {
+  background-image: url("https://cdn.glitch.global/cf9a0f03-a8b4-48bf-a691-d0d4ef909359/images.jpg?v=1748469304514");
+}
+
+#quiz {
+  font-family: cursive;
+  font-size: 3.5em;
+  color: #ff69b4;
+}
+
+#mee {
+  font-family: cursive;
+  font-size: 3.5em;
+  color: #f33a6a;
+}
